@@ -1,0 +1,11 @@
+2022-06-15 12:17:26,424 :INFO :pyTestDemo.test_logging :Information statement
+2022-06-15 12:17:26,425 :WARNING :pyTestDemo.test_logging :warning statement
+2022-06-15 12:17:26,425 :ERROR :pyTestDemo.test_logging :Error statement
+2022-06-15 12:17:26,425 :CRITICAL :pyTestDemo.test_logging :critical statement
+2022-06-15 16:07:02,342 :DEBUG :pyTestDemo.test_logging :Debugging statement
+2022-06-15 16:07:02,342 :INFO :pyTestDemo.test_logging :Information statement
+2022-06-15 16:07:02,342 :WARNING :pyTestDemo.test_logging :warning statement
+2022-06-15 16:07:02,342 :ERROR :pyTestDemo.test_logging :Error statement
+2022-06-15 16:07:02,342 :CRITICAL :pyTestDemo.test_logging :critical statement
+2022-06-15 16:26:27,161 :INFO :pyTestDemo.BaseClass :Shadan
+2022-06-15 16:26:27,162 :INFO :pyTestDemo.BaseClass :www.google.com
